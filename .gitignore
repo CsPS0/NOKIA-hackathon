@@ -161,5 +161,7 @@ cython_debug/
 
 # generated files
 */output.txt
+*/output.csv
+*/output.json
 */execution_time.txt
 */result.json
